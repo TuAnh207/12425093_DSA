@@ -1,4 +1,3 @@
-# 12425093_DSA
 # Bài tập CTDL&GT – 211131
 - Họ tên: Phạm Văn Tú Anh
 - MSV: 12425093
