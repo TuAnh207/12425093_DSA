@@ -4,7 +4,9 @@ Họ tên: Phạm Văn Tú Anh · MSV: 12425093
 
 ## Bài đã làm
 Chương 1: Tổng quan về cấu trúc dữ liệu và giải thuật: Bài 1, 2, 3, 4, 5
+
 Chương 2: Phân tích giải thuật: Bài 1, 2, 3, 4, 5, 6
+
 Chương 3 Đệ quy: Bài 1, 2, 3, 4, 5, 6, 7, 8
 
 Chương trình là một menu console: chọn chương, rồi chọn bài cần chạy.

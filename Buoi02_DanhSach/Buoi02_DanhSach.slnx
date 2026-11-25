@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../BaiTapCuoiSach/BaiTapCuoiSach.csproj" Id="dd3e1876-f086-45b9-9144-93b78517d6ba" />
   <Project Path="Buoi02_DanhSach.csproj" />
 </Solution>

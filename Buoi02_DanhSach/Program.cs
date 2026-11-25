@@ -33,7 +33,7 @@ class Program
                     Console.WriteLine("Đã thoát chương trình.");
                     return;
                 default:
-                    Console.WriteLine("Chọn từ 0 đến 5!");
+                    Console.WriteLine("Chọn từ 0 đến 5: ");
                     break;
             }
         }
